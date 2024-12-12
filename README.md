@@ -40,6 +40,3 @@ This section explores the lateralization of functional abnormalities by comparin
 1. Clone the repository.
 2. Install the required libraries.
 3. Run the Jupyter Notebook to reproduce the visualizations.
-
-## License
-This project is licensed under the MIT License.
